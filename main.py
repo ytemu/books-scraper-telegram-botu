@@ -3,8 +3,8 @@ import time
 import requests
 from bs4 import BeautifulSoup
 
-TOKEN="8766402164:AAFbfVb9NDeMGIhNXwwjtXRCqWLGO6LxUfc"
-CHAT_ID="8655457768"
+TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"
 
 while True:
     books=[]
